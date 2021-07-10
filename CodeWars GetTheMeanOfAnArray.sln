@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars GetTheMeanOfAnArray", "CodeWars GetTheMeanOfAnArray\CodeWars GetTheMeanOfAnArray.csproj", "{1515BFF0-F9F5-4683-B57D-E4166D180A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTheMeanTest", "GetTheMeanTest\GetTheMeanTest.csproj", "{FE3E0DC2-056A-4757-B516-50DC90204962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1515BFF0-F9F5-4683-B57D-E4166D180A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1515BFF0-F9F5-4683-B57D-E4166D180A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1515BFF0-F9F5-4683-B57D-E4166D180A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1515BFF0-F9F5-4683-B57D-E4166D180A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3E0DC2-056A-4757-B516-50DC90204962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3E0DC2-056A-4757-B516-50DC90204962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3E0DC2-056A-4757-B516-50DC90204962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3E0DC2-056A-4757-B516-50DC90204962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5FE048-DCA2-4A10-A469-12A992CCC29B}
+	EndGlobalSection
+EndGlobal
